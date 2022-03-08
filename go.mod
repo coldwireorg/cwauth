@@ -1,4 +1,4 @@
-module cwauth
+module codeberg.org/coldwire/cwauth
 
 go 1.17
 
