@@ -6,6 +6,7 @@ import (
 
 type Claims struct {
 	Username   string `json:"username"`
+	Role       string `json:"role"`
 	PrivateKey string `json:"private_key"`
 	PublicKey  string `json:"public_key"`
 }
